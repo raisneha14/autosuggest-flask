@@ -1,0 +1,54 @@
+from flask import Flask, render_template, request
+import  pandas as pd
+import numpy as np
+import textdistance
+from collections import Counter
+import re
+
+app = Flask(__name__)
+
+words = []
+with open(r'C:\Users\JP COMPUTER\OneDrive\Documents\data.txt','r',encoding='utf-8')as f:
+  data = f.read()
+  data = data.lower()
+  word = re.findall(r'\w+', data)
+  words = words+word
+
+  print(words[0:25])
+  len(words)
+  vocab = set(words)
+  new_len = len(vocab)
+  word_count_dict = Counter(words)
+print(word_count_dict)
+word_count_dict.most_common(20)
+counts = (word_count_dict.values())
+print(counts)
+total_sum = sum(counts)
+print(total_sum)
+new_dict = {}
+for k in word_count_dict.keys():
+    prob = word_count_dict[k]/total_sum
+    new_dict[k] = prob
+
+
+print(new_dict)
+
+@app.route('/')    
+def index():
+        return render_template('index.html', suggestion = None, keyword ="")
+    
+@app.route('/suggest',methods=['POST'])
+def suggest():
+        keyword = request.form['keyword'].lower()
+        if keyword:
+           similarities = [1-(textdistance.Jaccard(qval=2)).distance(w, keyword)for w in word_count_dict.keys()]
+           df = pd.DataFrame.from_dict(new_dict, orient='index').reset_index()
+           df.columns = ['Words', 'Prob']
+           df['Similarity'] = similarities
+           df['Similarity'] = df['Similarity'].round(2)
+           suggestions = df.sort_values(['Similarity','Prob'], ascending = False)[['Words', 'Similarity']].head(5)
+           suggestions_list = suggestions.to_dict('records')
+        return render_template('index.html', suggestion = suggestions_list, keyword = keyword)
+        
+if __name__ == '__main__':
+    app.run(debug = True)

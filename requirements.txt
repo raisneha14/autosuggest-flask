@@ -1,0 +1,4 @@
+flask
+pandas
+textdistance
+gunicorn
