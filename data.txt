@@ -1,0 +1,440 @@
+i love playing cricket
+i am watching cricket match
+he is a great batsman
+she is a fast bowler
+they are playing a cricket match
+india won the match
+virat kohli scored a century
+rohit sharma hit a six
+the bowler took a wicket
+the match is very exciting
+he is batting very well
+she is bowling fast
+they are chasing the target
+the team needs more runs
+he got out on zero
+the captain won the toss
+they chose to bat first
+the fielding team is strong
+he hit a boundary
+the crowd is cheering loudly
+the match went into super over
+he scored fifty runs
+she is a good all rounder
+the team is practicing hard
+they are playing in the stadium
+the pitch is good for batting
+the ball is swinging
+the spinner took three wickets
+he is the best player
+they won the series
+the match is live now
+he is opening the innings
+the batsman is under pressure
+they need ten runs to win
+the bowler is very accurate
+he hit a cover drive
+the team lost the match
+they are celebrating the victory
+the umpire gave out
+he reviewed the decision
+the match was very close
+they are preparing for the tournament
+he is a talented cricketer
+the team has strong players
+they are playing world cup
+he is fielding at slip
+the ball went for four
+he scored quick runs
+they are defending the total
+the match is interesting
+he is hitting big shots
+the bowler is tired
+they are building partnership
+
+i am going to market
+i am going to college
+i am going to office
+i am going home
+i am feeling tired
+i am feeling happy
+i am feeling excited
+i am learning new things
+i am working on my goals
+i am trying my best
+i am improving every day
+i am waking up early
+i am eating breakfast
+i am drinking tea
+i am drinking coffee
+i am studying for exams
+i am attending class
+i am completing my work
+i am writing notes
+i am reading a book
+i am watching tv
+i am listening to music
+i am using my phone
+i am talking to friends
+i am helping my family
+i am cleaning my room
+i am organizing my desk
+i am planning my day
+i am setting my goals
+i am solving problems
+
+he is going to office
+he is working hard
+he is feeling tired
+he is eating food
+he is drinking water
+he is talking on phone
+he is watching tv
+he is playing games
+he is studying well
+he is learning fast
+he is improving skills
+he is building project
+he is writing code
+he is solving questions
+he is practicing daily
+
+she is going to college
+she is studying hard
+she is reading book
+she is writing notes
+she is attending class
+she is asking questions
+she is learning quickly
+she is improving daily
+she is cooking food
+she is helping others
+she is watching movie
+she is listening music
+she is using laptop
+she is working online
+
+they are going outside
+they are playing games
+they are studying together
+they are watching movie
+they are eating food
+they are talking happily
+they are working on project
+they are solving problems
+they are learning new skills
+they are preparing for exams
+they are enjoying time
+they are planning trip
+they are helping each other
+
+what are you doing now
+where are you going
+how are you feeling
+what is your plan
+why are you late
+when will you come
+who is calling you
+what are you studying
+how is your day
+what are you eating
+
+i will go tomorrow
+i will call you later
+i will finish my work
+i will start studying
+i will complete project
+i will learn new skills
+i will practice coding
+i will improve myself
+i will achieve my goals
+i will try again
+
+this is my book
+this is my laptop
+this is my project
+this is my work
+this is my plan
+this is very important
+this is very easy
+this is very difficult
+this is very interesting
+this is very helpful
+
+that is my friend
+that is my house
+that is my college
+that is my teacher
+that is my goal
+that is very good
+that is very bad
+that is very useful
+that is very important
+that is very simple
+
+today is a good day
+today is very busy
+today is very important
+today is very special
+today i am happy
+today i am learning
+today i am working
+today i am studying
+today i am practicing
+today i am improving
+
+tomorrow i will start
+tomorrow i will study
+tomorrow i will work
+tomorrow i will go
+tomorrow i will learn
+tomorrow i will practice
+tomorrow i will improve
+tomorrow i will complete
+tomorrow i will try
+tomorrow i will succeed
+
+i like to travel
+i like to read books
+i like to watch movies
+i like to play games
+i like to learn coding
+i like to study
+i like to eat food
+i like to listen music
+i like to explore new things
+i like to improve skills
+
+i need some help
+i need more time
+i need to study
+i need to work
+i need to learn
+i need to practice
+i need to improve
+i need to focus
+i need to try again
+i need to stay strong
+
+please help me
+please tell me
+please explain this
+please give example
+please check this
+please guide me
+please support me
+please wait here
+please come here
+please listen carefully
+
+i am learning data science
+i am studying machine learning
+i am working on deep learning
+i am building nlp project
+i am training a model
+i am testing the model
+i am improving model accuracy
+i am cleaning the dataset
+i am preprocessing the data
+i am analyzing the results
+i am writing python code
+i am debugging the program
+i am running the script
+i am installing libraries
+i am importing modules
+i am creating a function
+i am defining a class
+i am using numpy library
+i am using pandas library
+i am using matplotlib library
+i am visualizing the data
+i am plotting a graph
+i am building a web app
+i am using flask framework
+i am deploying the project
+i am learning artificial intelligence
+i am studying algorithms
+i am solving coding problems
+i am working with datasets
+i am handling missing values
+
+the model is performing well
+the accuracy is improving
+the loss is decreasing
+the dataset is large
+the data is clean
+the code is working
+the function is running
+the output is correct
+the result is accurate
+the prediction is good
+the model is trained
+the system is working
+the server is running
+the application is deployed
+the data is processed
+the graph is plotted
+the code is optimized
+the error is fixed
+the bug is resolved
+the program is executed
+
+he is writing code
+she is building project
+they are training model
+he is debugging code
+she is analyzing data
+they are solving problems
+he is learning python
+she is using machine learning
+they are building application
+he is improving accuracy
+
+the algorithm is efficient
+the program is fast
+the system is stable
+the application is user friendly
+the interface is simple
+the code is readable
+the logic is clear
+the output is generated
+the data is structured
+the model is accurate
+
+i will learn python
+i will build projects
+i will improve coding skills
+i will practice algorithms
+i will study data science
+i will complete my project
+i will deploy my app
+i will improve my model
+i will learn new technologies
+i will explore ai
+
+this project is interesting
+this model is powerful
+this code is simple
+this problem is complex
+this solution is effective
+this dataset is useful
+this algorithm is important
+this concept is clear
+this method is efficient
+this approach is good
+
+we are building a model
+we are training the model
+we are testing the system
+we are improving performance
+we are analyzing data
+we are writing code
+we are debugging errors
+we are deploying application
+we are learning together
+we are solving problemsi am learning data science
+i am studying machine learning
+i am working on deep learning
+i am building nlp project
+i am training a model
+i am testing the model
+i am improving model accuracy
+i am cleaning the dataset
+i am preprocessing the data
+i am analyzing the results
+i am writing python code
+i am debugging the program
+i am running the script
+i am installing libraries
+i am importing modules
+i am creating a function
+i am defining a class
+i am using numpy library
+i am using pandas library
+i am using matplotlib library
+i am visualizing the data
+i am plotting a graph
+i am building a web app
+i am using flask framework
+i am deploying the project
+i am learning artificial intelligence
+i am studying algorithms
+i am solving coding problems
+i am working with datasets
+i am handling missing values
+
+the model is performing well
+the accuracy is improving
+the loss is decreasing
+the dataset is large
+the data is clean
+the code is working
+the function is running
+the output is correct
+the result is accurate
+the prediction is good
+the model is trained
+the system is working
+the server is running
+the application is deployed
+the data is processed
+the graph is plotted
+the code is optimized
+the error is fixed
+the bug is resolved
+the program is executed
+
+he is writing code
+she is building project
+they are training model
+he is debugging code
+she is analyzing data
+they are solving problems
+he is learning python
+she is using machine learning
+they are building application
+he is improving accuracy
+
+the algorithm is efficient
+the program is fast
+the system is stable
+the application is user friendly
+the interface is simple
+the code is readable
+the logic is clear
+the output is generated
+the data is structured
+the model is accurate
+
+i will learn python
+i will build projects
+i will improve coding skills
+i will practice algorithms
+i will study data science
+i will complete my project
+i will deploy my app
+i will improve my model
+i will learn new technologies
+i will explore ai
+
+this project is interesting
+this model is powerful
+this code is simple
+this problem is complex
+this solution is effective
+this dataset is useful
+this algorithm is important
+this concept is clear
+this method is efficient
+this approach is good
+
+we are building a model
+we are training the model
+we are testing the system
+we are improving performance
+we are analyzing data
+we are writing code
+we are debugging errors
+we are deploying application
+we are learning together
+we are solving problems
