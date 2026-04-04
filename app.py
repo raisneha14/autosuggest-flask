@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 words = []
 
-BASE_DIR = os.path.dirname(os.path.abspath(_file_))
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 file_path = os.path.join(BASE_DIR, "data.txt")
 
 with open(file_path, "r", encoding="utf-8") as f:
