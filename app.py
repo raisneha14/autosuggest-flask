@@ -4,21 +4,27 @@ import numpy as np
 import textdistance
 from collections import Counter
 import re
+import os
 
 app = Flask(__name__)
 
 words = []
-with open(r'C:\Users\JP COMPUTER\OneDrive\Documents\data.txt','r',encoding='utf-8')as f:
+
+BASE_DIR = os.path.dirname(os.path.abspath(_file_))
+file_path = os.path.join(BASE_DIR, "data.txt")
+
+with open(file_path, "r", encoding="utf-8") as f:
+  data = f.read(
   data = f.read()
   data = data.lower()
   word = re.findall(r'\w+', data)
   words = words+word
 
-  print(words[0:25])
-  len(words)
-  vocab = set(words)
-  new_len = len(vocab)
-  word_count_dict = Counter(words)
+print(words[0:25])
+len(words)
+vocab = set(words)
+new_len = len(vocab)
+word_count_dict = Counter(words)
 print(word_count_dict)
 word_count_dict.most_common(20)
 counts = (word_count_dict.values())
