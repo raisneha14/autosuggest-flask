@@ -14,7 +14,6 @@ BASE_DIR = os.path.dirname(os.path.abspath(_file_))
 file_path = os.path.join(BASE_DIR, "data.txt")
 
 with open(file_path, "r", encoding="utf-8") as f:
-  data = f.read(
   data = f.read()
   data = data.lower()
   word = re.findall(r'\w+', data)
@@ -57,4 +56,4 @@ def suggest():
         return render_template('index.html', suggestion = suggestions_list, keyword = keyword)
         
 if __name__ == '__main__':
-    app.run(debug = True)
+    app.run()
