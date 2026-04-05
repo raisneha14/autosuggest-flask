@@ -18,7 +18,7 @@ try:
         data = f.read().lower()
         words = re.findall(r'\w+', data)
 except FileNotFoundError:
-    print("❌ data.txt file not found")
+    print("data.txt file not found")
     words = []
 
 # ------------------ PROCESS DATA ------------------
