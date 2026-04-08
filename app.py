@@ -89,9 +89,9 @@ def suggest():
     })
 
     df['Similarity'] = df['Similarity'].round(2)
-
-    
-    df = df[df['Similarity'] > 0.2]
+    print("Debug Output:")
+    print(df.sort_values('Similarity', ascending=False).head(10))   
+    df = df[df['Similarity'] > 0.02]
     df = df[abs(df['Words'].str.len() - len(keyword)) <= 3]
 
 
@@ -105,11 +105,12 @@ def suggest():
         corrected_word = df.iloc[0]['Words']
 
         
-        if df.iloc[0]['Similarity'] < 0.2:
+        if df.iloc[0]['Similarity'] < 0.3:
+            suggestion_list = [{"Words":"No Similar words", "Similarity":0}]
             corrected_word = None
+        else   
 
-        suggestions_list = df[['Words', 'Similarity']].head(5).to_dict('records')
-
+            suggestions_list = df[['Words', 'Similarity']].head(5).to_dict('records')
     return render_template(
         'index.html',
         suggestion=suggestions_list,
