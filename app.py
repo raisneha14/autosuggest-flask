@@ -48,7 +48,7 @@ def suggest():
             keyword=keyword,
             corrected=None
         )
-     if not word_count dict:
+     if not word_count_dict:
         return render_template(
             'index.html',
             suggestion=[{"Words": "No data found", "Similarity": 0}],
