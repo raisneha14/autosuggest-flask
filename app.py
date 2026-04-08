@@ -108,7 +108,7 @@ def suggest():
         if df.iloc[0]['Similarity'] < 0.3:
             suggestion_list = [{"Words":"No Similar words", "Similarity":0}]
             corrected_word = None
-        else   
+        else:   
 
             suggestions_list = df[['Words', 'Similarity']].head(5).to_dict('records')
     return render_template(
